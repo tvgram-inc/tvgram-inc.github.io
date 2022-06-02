@@ -82,3 +82,4 @@ onetag.com, 59aa7be4921bac8, RESELLER
 google.com, pub-1723471843093057, DIRECT, f08c47fec0942fa0
 pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
 google.com, pub-1867655643934057, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
