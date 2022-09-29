@@ -589,3 +589,4 @@ xandr.com, 13167, RESELLER, f5ab79cb980f11d1
 
 xandr.com, 13297, RESELLER, f5ab79cb980f11d1
 google.com, pub-5857139169215153, RESELLER, f08c47fec0942fa0
+google.com, pub-2960293519697422, DIRECT, f08c47fec0942fa0
