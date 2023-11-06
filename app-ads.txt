@@ -216,3 +216,5 @@ applovin.com, 0ad67041b3aa389aab1cc2c157e9de15, DIRECT
 gameadzone.com, 959, DIRECT
 google.com, pub-7600495382637601, DIRECT, f08c47fec0942fa0
 google.com, pub-2880458232954224, DIRECT, f08c47fec0942fa0
+datawrkz.com, mwpmcm413, DIRECT
+google.com, pub-8856559311549217, RESELLER, f08c47fec0942fa0
