@@ -1464,3 +1464,4 @@ themediagrid.com, 5KMQ9S, RESELLER, 35d5010d7789b49d
 sonobi.com, aa0dea192c, RESELLER, d1a215d9eb5aee9e
 xandr.com, 11316, RESELLER
 appnexus.com, 15774, RESELLER
+google.com, pub-1818318230130830, DIRECT, f08c47fec0942fa0
